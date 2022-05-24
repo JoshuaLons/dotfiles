@@ -1,0 +1,8 @@
+"VIM Plug file
+"
+call plug#begin('~/.vim/plugged')
+
+"VIMWiki Personal Wiki tool
+Plug 'vimwiki/vimwiki'
+
+call plug#end()
